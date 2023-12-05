@@ -10,7 +10,8 @@ The reason this model was chosen to serve the valuation of PFE shares is because
 
 # Variables used:
 The model is based on the relationship between the asset's beta coefficient (specifically the PFE stock), the risk-free interest rate (specifically the 10-year US Treasury bill rate), and the risk premium of stocks and markets.
--CAPM formula
+
+# CAPM formula
 - R = Rf + β*(Rm - Rf
 In there:
 - R: Expected return on a security.
